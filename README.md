@@ -1,2 +1,2 @@
 # cppmpi
-cpp code for parallel computing by mpi
+cpp codes for parallel computing by mpi
